@@ -1,0 +1,11 @@
+{
+  "name": "sunny",
+  "description": "sunny weather",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "4.x",
+    "jade": "x",
+    "request": "x"
+  }
+}
