@@ -1,0 +1,21 @@
+<html>
+
+    <head></head>
+    <title>Weather</title>
+    <body>
+        <table>
+        <tr>
+            <th>STATE</td>
+            <th>STATE</td>
+            <th>STATE</td>
+        </tr>
+        {#weatherData}
+        <tr>
+            <td>{state}</td>
+            <td>{city}</td>
+            <td>{temp}</td>
+        <tr>
+        {/weatherData}
+        </table>
+    </body>
+</html>
