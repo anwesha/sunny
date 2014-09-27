@@ -5,7 +5,8 @@
   "private": true,
   "dependencies": {
     "express": "4.x",
-    "jade": "x",
-    "request": "x"
+    "consolidate": "x",
+    "request": "x",
+    "dustjs-linkedin" : "x"
   }
 }
